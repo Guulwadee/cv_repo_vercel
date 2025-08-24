@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "Build your Resume",
+    "subtitle": "Create a professional CV in English or Somali",
+    "start": "Start",
+    "save": "Save",
+    "next": "Next",
+    "back": "Back",
+    "publish": "Publish",
+    "exportPdf": "Export PDF",
+    "upgrade": "Upgrade to Pro",
+    "logout": "Log out",
+    "login": "Log in",
+    "signup": "Sign up",
+    "pricing": "Pricing",
+    "dashboard": "Dashboard",
+    "templates": "Templates",
+    "language": "Language"
+  },
+  "wizard": {
+    "personal": "Personal",
+    "summary": "Summary",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "certs": "Certifications",
+    "languages": "Languages",
+    "extras": "Extras",
+    "autosaved": "All changes saved"
+  },
+  "placeholders": {
+    "enterExperience": "Enter your work experience…",
+    "enterSummary": "Write a professional summary…",
+    "jobTitle": "Job title",
+    "employer": "Employer",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location"
+  },
+  "paywall": {
+    "proOnlyTemplate": "Pro template",
+    "watermarkNotice": "Free exports include a subtle watermark. Upgrade to remove it.",
+    "premiumNotice": "Upgrade to unlock premium templates and watermark-free exports."
+  },
+  "share": {
+    "public": "Public link",
+    "copyLink": "Copy link",
+    "password": "Password (optional)",
+    "protect": "Protect"
+  },
+  "admin": {
+    "title": "Admin",
+    "users": "Users",
+    "resumes": "Resumes",
+    "payments": "Payments",
+    "usage": "Templates usage"
+  }
+}

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand: #1d4ed8;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+.progress-indicator {
+  position: sticky;
+  top: 64px;
+  z-index: 30;
+  background: white;
+}

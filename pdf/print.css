@@ -1,0 +1,23 @@
+@page {
+  size: A4;
+  margin: 14mm;
+}
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .watermark {
+    position: fixed;
+    top: 40%;
+    left: 15%;
+    font-size: 64px;
+    color: rgba(29, 78, 216, 0.08);
+    transform: rotate(-20deg);
+    z-index: 0;
+    white-space: nowrap;
+  }
+}

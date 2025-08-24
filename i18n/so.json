@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "Samee CV‑gaaga",
+    "subtitle": "Abuur CV xirfad leh af‑Ingiriisi ama Soomaali",
+    "start": "Bilow",
+    "save": "Kaydi",
+    "next": "Xiga",
+    "back": "Dib u Noqo",
+    "publish": "Daabac",
+    "exportPdf": "Soo dejiso PDF",
+    "upgrade": "Kor u qaad Pro",
+    "logout": "Ka bax",
+    "login": "Gal",
+    "signup": "Is diiwaangeli",
+    "pricing": "Qiimeyn",
+    "dashboard": "Dashboard",
+    "templates": "Shaxanno",
+    "language": "Luuqad"
+  },
+  "wizard": {
+    "personal": "Macluumaadka Shakhsiyeed",
+    "summary": "Soo Koobid",
+    "experience": "Khibradda Shaqo",
+    "education": "Waxbarasho",
+    "skills": "Xirfadaha",
+    "projects": "Mashaariic",
+    "certs": "Shahaadooyin",
+    "languages": "Luuqadaha",
+    "extras": "Waxyaabo Kale",
+    "autosaved": "Isbeddellada waa la keydiyay"
+  },
+  "placeholders": {
+    "enterExperience": "Gali khibradaada shaqo…",
+    "enterSummary": "Qor soo koobid xirfadeed…",
+    "jobTitle": "Magaca Shaqada",
+    "employer": "Hay'adda",
+    "name": "Magaca oo buuxa",
+    "email": "Email",
+    "phone": "Telefoon",
+    "location": "Goobta"
+  },
+  "paywall": {
+    "proOnlyTemplate": "Shax Pro oo keliya",
+    "watermarkNotice": "Soo dejinta bilaashka ah waxay leedahay watermark khafiif ah. U beddel Pro si aad uga saarto.",
+    "premiumNotice": "U beddel Pro si aad u furto shaxanno dheeraad ah oo aan lahayn watermark."
+  },
+  "share": {
+    "public": "Xiriir dadweyne",
+    "copyLink": "Koobi xiriirka",
+    "password": "Furaha sirta (ikhtiyaari)",
+    "protect": "Ilaali"
+  },
+  "admin": {
+    "title": "Maamul",
+    "users": "Isticmaaleyaal",
+    "resumes": "CV-yada",
+    "payments": "Lacag-bixinta",
+    "usage": "Isticmaalka shaxannada"
+  }
+}
